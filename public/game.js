@@ -1,5 +1,3 @@
-import { mod } from "./utils.js"
-
 export default function createGame() {
     const state = {
         players: {},
